@@ -118,17 +118,21 @@ target="_blank">
 <section class="descricao">
 
 <h2>Descrição</h2>
-
+<br>
 <p>
-O AgendSaúde é um projeto criado para facilitar
-a organização dos mutirões de saúde comunitária.
+  O <strong>AgendSaúde</strong> é uma iniciativa voltada à organização e ao fortalecimento dos mutirões de saúde comunitária, oferecendo uma forma prática e acessível de conectar a população aos serviços de atendimento.
 </p>
 
 <br>
 
 <p>
-Nosso objetivo é promover o cuidado preventivo
-e aproximar serviços essenciais da comunidade.
+  A plataforma tem como objetivo facilitar o agendamento, ampliar o alcance das ações de saúde e incentivar hábitos preventivos, contribuindo para uma comunidade mais saudável e informada.
+</p>
+
+<br>
+
+<p>
+  Com foco na inclusão, eficiência e acessibilidade, o AgendSaúde busca aproximar profissionais, voluntários e cidadãos, promovendo um atendimento mais humanizado e organizado.
 </p>
 
 </section>
