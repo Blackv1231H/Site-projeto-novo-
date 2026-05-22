@@ -124,20 +124,11 @@ button:hover{
   background: #0f766e;
 }
 
-/* FOOTER */
-.footer{
-  background: #fff;
-
+.footer {
+  background-color: #dcffeb;
+  border-top: 2px solid #c6efd9;
   padding: 1rem;
-
   text-align: center;
-
-  width: 100%;
-
-  position: fixed;
-
-  bottom: 0;
-  left: 0;
 }
 
 .redes i{
@@ -189,4 +180,8 @@ button:hover{
   margin-right: auto;
 
   border: 2px solid var(--primary);
+}
+.redes a {
+  color: inherit;
+  text-decoration: none;
 }

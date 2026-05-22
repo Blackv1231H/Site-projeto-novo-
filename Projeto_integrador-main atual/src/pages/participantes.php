@@ -19,7 +19,7 @@
   <!-- HEADER -->
   <header class="banner">
       <!-- LOGO -->
-      <a href="../index.html">
+      <a href="../index.php">
         <div class="logo">
           <img src="../img/Logo png.png" alt="Ícone AgendSaúde">
         </div>
@@ -109,12 +109,13 @@
   <footer class="footer">
     <p>Siga-nos nas redes sociais</p>
     <div class="redes">
-      <i class="bi bi-facebook"></i>
-      <i class="bi bi-instagram"></i>
-      <i class="bi bi-twitter"></i>
-      <i class="bi bi-linkedin"></i>
-      <i class="bi bi-youtube"></i>
-    </div>
+    <i class="bi bi-facebook"></i>
+
+    <a href="https://www.instagram.com/agendsaudeunidade/" target="_blank">
+        <i class="bi bi-instagram"></i>
+    </a>
+
+</div>
     <span>© 2026 AgendSaúde</span>
   </footer>
 

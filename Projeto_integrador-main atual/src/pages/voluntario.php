@@ -153,11 +153,12 @@ Cadastrar
 <p>Siga-nos nas redes sociais</p>
 
 <div class="redes">
-<i class="bi bi-facebook"></i>
-<i class="bi bi-instagram"></i>
-<i class="bi bi-twitter"></i>
-<i class="bi bi-linkedin"></i>
-<i class="bi bi-youtube"></i>
+    <i class="bi bi-facebook"></i>
+
+    <a href="https://www.instagram.com/agendsaudeunidade/" target="_blank">
+        <i class="bi bi-instagram"></i>
+    </a>
+
 </div>
 
 <span>
